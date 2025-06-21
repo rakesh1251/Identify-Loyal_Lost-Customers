@@ -47,6 +47,10 @@ View on Kaggle: [Identify Loyal & Lost Customers + Best Products](https://www.ka
 * Best-selling and most returned products
 * Revenue trend by month
 * Loyal, at-risk, and lost customer groups
+* RFM Segmentation Bar Chart
+
+![RFM Bar Chart](rfm_bar_chart.png)
+
 
 ---
 
