@@ -71,7 +71,7 @@ View on Kaggle: [Identify Loyal & Lost Customers + Best Products](https://www.ka
 git clone https://github.com/rakesh1251/Identify-Loyal_Lost-Customers.git
 ```
 
-2. Open `online-retail-analysis-python.ipynb` in Jupyter or upload it to [Kaggle Notebooks](https://www.kaggle.com/code/ranjanrakesh51/identify-loyal-lost-customers-best-products)
+2. Open `identify-loyal-lost-customers-best-products.ipynb` in Jupyter or upload it to [Kaggle Notebooks](https://www.kaggle.com/code/ranjanrakesh51/identify-loyal-lost-customers-best-products)
 3. Run cells sequentially
 
 ---
